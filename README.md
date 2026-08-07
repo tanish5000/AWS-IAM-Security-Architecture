@@ -118,6 +118,32 @@ The repository contains screenshots demonstrating:
 
 ---
 
+## Repository Structure
+
+```
+AWS-IAM-Security-Architecture
+│
+├── policies
+├── reports
+├── architecture
+├── Screenshots
+├── LICENSE
+├── README.md
+└── .gitignore
+```
+
+## Skills Demonstrated
+
+- AWS IAM
+- Identity and Access Management
+- Least Privilege
+- Role Based Access Control
+- Multi-Factor Authentication
+- IAM Policy Simulator
+- Access Analyzer
+- Credential Report
+- AWS Security Best Practices
+
 # Author
 
 **Tanish Khera**
